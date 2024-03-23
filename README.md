@@ -8,7 +8,9 @@
 - 🔭 I’m currently working on Full Stack Development.
 - 🌱 I’m currently learning AWS and Kubernetes.
 - 💬 Ask me about anything related to Web Development and Cloud Native.
-- 📫 How to reach me: anningcn0721@gmail.com
+- 📫 How to reach me:
+  - :email: anningcn0721@gmail.com
+  - [LinkedIn]: https://www.linkedin.com/in/ning-an-262960224/
 
 
 
