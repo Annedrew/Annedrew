@@ -10,7 +10,7 @@
 - 💬 Ask me about anything related to Web Development and Cloud Native.
 - 📫 How to reach me:
   - :email: : anningcn0721@gmail.com
-  - [LinkedIn]
+  - :link: : [LinkedIn]
 
 [LinkedIn]: https://www.linkedin.com/in/ning-an-262960224/
 
