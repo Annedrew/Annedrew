@@ -11,7 +11,6 @@
 - 📫 How to reach me: anningcn0721@gmail.com
 
 ![](https://github-readme-stats.vercel.app/api?username=Annedrew&show_icons=true&theme=shadow_blue)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Annedrew&layout=compact&theme=shadow_blue)
 
 ![](https://github-readme-activity-graph.cyclic.app/graph?username=Annedrew&theme=shadow_blue)
