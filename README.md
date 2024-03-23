@@ -12,8 +12,8 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=Annedrew&show_icons=true&theme=shadow_blue)
 
-![Visitor Count](https://profile-counter.glitch.me/Annedrew/count.svg)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Annedrew&layout=compact&theme=shadow_blue)
 
 ![](https://github-readme-activity-graph.cyclic.app/graph?username=Annedrew&theme=shadow_blue)
+
+![Visitor Count](https://profile-counter.glitch.me/Annedrew/count.svg)
