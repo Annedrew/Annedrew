@@ -9,10 +9,10 @@
 - 🌱 I’m currently learning AWS and Kubernetes.
 - 💬 Ask me about anything related to Web Development and Cloud Native.
 - 📫 How to reach me:
-  - :email: anningcn0721@gmail.com
-  - [LinkedIn]: https://www.linkedin.com/in/ning-an-262960224/
+  - :email: : anningcn0721@gmail.com
+  - [LinkedIn]
 
-
+[LinkedIn]: https://www.linkedin.com/in/ning-an-262960224/
 
 ![](https://github-readme-stats.vercel.app/api?username=Annedrew&show_icons=true&theme=shadow_blue)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Annedrew&layout=compact&theme=shadow_blue)
