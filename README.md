@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="css/fontawesome.min.css">
+
 ### Hi there 👋
 
 <!--
@@ -11,8 +13,11 @@
 - 📫 How to reach me:
   - :email: : anningcn0721@gmail.com
   - :link: : [LinkedIn]
+  - Portfolio: [Portfolio](#) <i class="fab fa-github"></i>
 
 [LinkedIn]: https://www.linkedin.com/in/ning-an-262960224/
+
+[Portfolio]https://portfolio-k61k7f32e-annedrews-projects.vercel.app/
 
 <!--
 ![](https://github-readme-stats.vercel.app/api?username=Annedrew&show_icons=true&theme=shadow_blue)
