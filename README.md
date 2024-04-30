@@ -13,13 +13,14 @@
 - 📫 How to reach me:
   - :email: : anningcn0721@gmail.com
   - :link: : [LinkedIn]
-  - Portfolio: [Portfolio](#) <i class="fab fa-github"></i>
+  - :bust_in_silhouette:: [Portfolio]
 
 [LinkedIn]: https://www.linkedin.com/in/ning-an-262960224/
 
-[Portfolio]https://portfolio-k61k7f32e-annedrews-projects.vercel.app/
+[Portfolio]: https://portfolio-k61k7f32e-annedrews-projects.vercel.app/
 
 <!--
+Markdown icons: https://gist.github.com/rxaviers/7360908
 ![](https://github-readme-stats.vercel.app/api?username=Annedrew&show_icons=true&theme=shadow_blue)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Annedrew&layout=compact&theme=shadow_blue)
