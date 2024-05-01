@@ -17,7 +17,7 @@
 
 [LinkedIn]: https://www.linkedin.com/in/ning-an-262960224/
 
-[Portfolio]: https://portfolio-k61k7f32e-annedrews-projects.vercel.app/
+[Portfolio]: https://portfolio-2pdhz4p8l-annedrews-projects.vercel.app/
 
 <!--
 Markdown icons: https://gist.github.com/rxaviers/7360908
