@@ -13,11 +13,13 @@
 - 📫 How to reach me:
   - :email: : anningcn0721@gmail.com
   - :link: : [LinkedIn]
-  - :bust_in_silhouette:: [Portfolio]
 
 [LinkedIn]: https://www.linkedin.com/in/ning-an-262960224/
 
+<!--
+  - :bust_in_silhouette:: [Portfolio]
 [Portfolio]: https://portfolio-2pdhz4p8l-annedrews-projects.vercel.app/
+-->
 
 <!--
 Markdown icons: https://gist.github.com/rxaviers/7360908
