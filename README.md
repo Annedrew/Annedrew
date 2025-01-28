@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working with LCA.
 - 🌱 I’m currently learning AWS and Kubernetes.
-- 💬 Ask me about anything related to Web Development and Cloud Native.
+- 💬 Ask me about anything related to Machine Learning, Web Development and Cloud Native.
 - 📫 How to reach me:
   - :email: : anningcn0721@gmail.com
   - :link: : [LinkedIn]
