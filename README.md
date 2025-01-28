@@ -9,10 +9,8 @@
 -->
 
 - 🔭 I’m currently working with LCA.
-<!--
-- 🌱 I’m currently learning AWS and Kubernetes.
--->
-- 💬 Ask me about anything related to Machine Learning, Cloud Native and Web Development.
+- 🌱 Master's degree in Computer Science, specialization in Machine Learning.
+- 💬 Ask me about anything related to Machine Learning, Cloud Native or Web Development.
 - 📫 How to reach me:
   - :email: : anningcn0721@gmail.com
   - :link: : [LinkedIn]
