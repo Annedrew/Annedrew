@@ -8,11 +8,10 @@
 - 🔭 I’m currently working on Full Stack Development.
 -->
 
-- 🔭 I’m currently working with LCA.
+- 🔭 I’m currently working with Life Cycle Assessment (LCA).
 - 🌱 Master's degree in Computer Science, specialization in Machine Learning.
 - 💬 Ask me about anything related to Machine Learning, Cloud Native or Web Development.
 - 📫 How to reach me:
-  - :email: : anningcn0721@gmail.com
   - :link: : [LinkedIn]
 
 [LinkedIn]: https://www.linkedin.com/in/ning-an-262960224/
