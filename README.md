@@ -6,11 +6,12 @@
 **Annedrew/Annedrew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working on Full Stack Development.
+- 💬 Ask me about anything related to Machine Learning, Cloud Native or Web Development.
 -->
 
-- 🔭 I’m currently working with Life Cycle Assessment (LCA).
+- 🔭 I’m a PhD student at Aalborg University, working on Life Cycle Assessment (LCA) and using GenAI to facilitate sustainable building design.
 - 🌱 Master's degree in Computer Science, specialization in Machine Learning.
-- 💬 Ask me about anything related to Machine Learning, Cloud Native or Web Development.
+
 - 📫 How to reach me:
   - :link: : [LinkedIn]
 
